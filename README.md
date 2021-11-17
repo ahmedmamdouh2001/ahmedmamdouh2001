@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ahmedmamdouh2001
+- 👋 Hi, I’m Ahmed Mamdouh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 
